@@ -183,3 +183,6 @@ C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaPres
 C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\obj\Release\PuntoVentaPresentacion.application
 C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\obj\Release\PuntoVentaPresentacion.exe
 C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\obj\Release\PuntoVentaPresentacion.pdb
+C:\Users\Windows\Documents\PntVenta-ArielDuran\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\bin\Release\PuntoVentaPresentacion.exe.config
+C:\Users\Windows\Documents\PntVenta-ArielDuran\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\obj\Release\PuntoVentaPresentacion.exe
+C:\Users\Windows\Documents\PntVenta-ArielDuran\prog_fact_elect\PuntoVenta\PuntoVentaPresentacion\obj\Release\PuntoVentaPresentacion.pdb
