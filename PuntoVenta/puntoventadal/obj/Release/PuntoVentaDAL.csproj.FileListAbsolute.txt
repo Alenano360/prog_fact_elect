@@ -1,0 +1,16 @@
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.dll.config
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.pdb
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.dll.config
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.dll
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\PuntoVentaDAL.pdb
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\bin\Release\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.dll
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.pdb
+C:\Users\Windows\Desktop\Nueva carpeta\prog_fact_elect\PuntoVenta\PuntoVentaDAL\obj\Release\PuntoVentaDAL.csprojResolveAssemblyReference.cache

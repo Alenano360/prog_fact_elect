@@ -1,0 +1,29 @@
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
+C:\Users\Public\Documents\Factura Digital Clientes\ochavarria14-prog_fact_elect-fa5e1a825a49\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb
+C:\Users\TI\Downloads\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
+C:\Users\TI\Downloads\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
+C:\Users\TI\Downloads\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
+C:\Users\TI\Downloads\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
+C:\Users\TI\Downloads\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\APPRESTAURANTEELEC\APPRESTAURANTEELEC\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Restaurante Manitos\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb

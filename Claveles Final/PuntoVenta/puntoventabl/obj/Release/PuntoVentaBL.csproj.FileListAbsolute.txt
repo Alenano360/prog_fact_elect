@@ -1,0 +1,12 @@
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\obj\Release\PuntoVentaBL.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\PuntoVentaBL.dll.config
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\PuntoVentaBL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\PuntoVentaBL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\Microsoft.PointOfService.ControlBase.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\Microsoft.PointOfService.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\Newtonsoft.Json.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\PuntoVentaDAL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\PuntoVentaDAL.pdb
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\bin\Release\Newtonsoft.Json.xml
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\obj\Release\PuntoVentaBL.dll
+C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\PuntoVentaBL\obj\Release\PuntoVentaBL.pdb
