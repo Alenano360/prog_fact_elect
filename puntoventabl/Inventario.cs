@@ -145,9 +145,9 @@ namespace PuntoVentaBL
             set { _Precio = value; }
         }
 
-        private bool _IV;
+        private int _IV;
 
-        public bool IV
+        public int IV
         {
             get { return _IV; }
             set { _IV = value; }
@@ -250,6 +250,7 @@ namespace PuntoVentaBL
                 dgv.Columns[6].Visible = false;
 
                 var bus = (from x in db.Articulo
+                           join i in db.IVA on x.IV equals i.Id
                            join p in db.Proveedors on x.ProveedorId equals p.Id
                            join f in db.Familias on x.FamiliaId equals f.Id
                            join u in db.Ubicacions on x.UbicacionId equals u.Id into ps from u in ps.DefaultIfEmpty()
@@ -268,7 +269,7 @@ namespace PuntoVentaBL
                                        x.FechaUltimaCompra,
                                        x.Precio,
                                        x.UtilidadPrecio,
-                                       IV=(x.IV==false?"NO":"SI"),
+                                       IV=x.PorcIV,
                                        x.PrecioIVU,
                                        Observacion = (x.Observacion == null ? "" : x.Observacion) });
 
@@ -325,7 +326,7 @@ namespace PuntoVentaBL
                                Familia = f.Descripcion,
                                x.Existencias,
                                x.FechaUltimaCompra, 
-                                x.Precio, x.UtilidadPrecio, IV = (x.IV == false ? "NO" : "SI"), x.PrecioIVU ,poseeiv=x.IV,
+                                x.Precio, x.UtilidadPrecio, x.IV , x.PrecioIVU ,
                                x.Precio2,
                                x.UtilidadPrecio2,
                                IV2 = x.IVPrecio2,
@@ -349,7 +350,7 @@ namespace PuntoVentaBL
                     _FechaUltimaCompra = Convert.ToDateTime(bus.First().FechaUltimaCompra);
                     _PorcImpVentas = bus.First().PorcIV;
                     _Precio = bus.First().Precio;
-                    _IV = bus.First().poseeiv;
+                    _IV = bus.First().IV;
                     _UtilidadPrecio = bus.First().UtilidadPrecio;
                     _PrecioIVU = bus.First().PrecioIVU;
 
@@ -409,7 +410,7 @@ namespace PuntoVentaBL
                                x.FechaUltimaCompra,
                                x.Precio,
                                x.UtilidadPrecio,
-                               IV = (x.IV == false ? "NO" : "SI"),
+                               x.IV,
                                x.PrecioIVU,
                                Observacion = (x.Observacion == null ? "" : x.Observacion)
                            });
@@ -776,7 +777,7 @@ namespace PuntoVentaBL
                 bus.PorcIV = this._PorcImpVentas;
                 if (_Compra > 0)
                 {
-                    bus.Precio = this._Compra;
+                    bus.Precio = this._Precio;
                 }
                 else
                 {

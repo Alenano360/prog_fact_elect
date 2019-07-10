@@ -200,6 +200,14 @@ namespace PuntoVentaBL
             set { _Existencias = value; }
         }
 
+        private decimal _PorcIV;
+
+        public decimal PorcIV
+        {
+            get { return _PorcIV; }
+            set { _PorcIV = value; }
+        }
+
         private int _UnidadMedidaId;
 
         public int UnidadMedidaId
@@ -208,9 +216,9 @@ namespace PuntoVentaBL
             set { _UnidadMedidaId = value; }
         }
 
-        private bool _IV;
+        private int _IV;
 
-        public bool IV
+        public int IV
         {
             get { return _IV; }
             set { _IV = value; }
@@ -345,7 +353,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
                     }
@@ -376,8 +384,8 @@ namespace PuntoVentaBL
                 this.OpenConn();
 
                 var bus = (from x in db.Articulo
-                           join p in db.Proveedors on x.ProveedorId equals p.Id
-                           join f in db.Familias on x.FamiliaId equals f.Id
+                           //join p in db.Proveedors on x.ProveedorId equals p.Id
+                           //join f in db.Familias on x.FamiliaId equals f.Id
                            //where x.Activo == true && x.Codigo.Contains(id)
                            where x.Activo == true && x.Codigo == id || x.Codigo2==id
                            orderby x.Descripcion ascending
@@ -395,7 +403,8 @@ namespace PuntoVentaBL
                                x.Precio2,
                                x.MontoIV2,
                                x.Precio2IVU,
-                               x.UnidadMedidaId
+                               x.UnidadMedidaId,
+                               x.PorcIV
                            });
 
                 if (bus.Count() > 0)
@@ -414,6 +423,7 @@ namespace PuntoVentaBL
                     _Descripcion = bus.First().Articulo;
                     _UnidadMedidaId = bus.First().UnidadMedidaId;
                     _Existencias = bus.First().Existencias;
+                    _PorcIV = bus.First().PorcIV;
 
                     if (_TipoPrecio == 1)
                     {
@@ -426,7 +436,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
                     }
@@ -528,7 +538,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
 
@@ -614,7 +624,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
                     }
@@ -653,7 +663,7 @@ namespace PuntoVentaBL
                                Articulo = x.Descripcion,
                                x.Existencias,
                                x.Precio,
-                               IV = (x.IV == true ? "SI" : "NO"),
+                               x.IV ,
                                x.IVPrecio2,
                                x.MontoIV,
                                x.PrecioIVU,
@@ -798,7 +808,7 @@ namespace PuntoVentaBL
                                Articulo = x.Descripcion,
                                x.Existencias,
                                x.Precio,
-                               IV = (x.IV == true ? "SI" : "NO"),
+                               x.IV,
                                x.IVPrecio2,
                                x.MontoIV,
                                x.PrecioIVU,
@@ -1531,7 +1541,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
                     }
@@ -1609,7 +1619,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
 

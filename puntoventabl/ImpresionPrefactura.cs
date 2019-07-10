@@ -577,7 +577,7 @@ namespace PuntoVentaBL
                 Offset = Offset + 20;
 
 
-                measureString = "IV:";
+                measureString = "IVA:";
                 stringSize = e.Graphics.MeasureString(measureString, stringFont);
                 graphics.DrawString(measureString, stringFont, sb, 80 - stringSize.Width, startY + Offset);
 
@@ -626,7 +626,7 @@ namespace PuntoVentaBL
                 graphics.DrawString(measureString, stringFont, sb, 180 - stringSize.Width - startX, startY + Offset);
                 Offset = Offset + 20;
 
-                measureString = "IV:";
+                measureString = "IVA:";
                 stringSize = e.Graphics.MeasureString(measureString, stringFont);
                 graphics.DrawString(measureString, stringFont, sb, 80 - stringSize.Width, startY + Offset);
 

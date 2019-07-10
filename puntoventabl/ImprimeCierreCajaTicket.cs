@@ -1183,7 +1183,7 @@ namespace PuntoVentaBL
             graphics.DrawString(measureString, stringFont, sb, (250 - stringSize.Width), startY + Offset);
             Offset = Offset + 32;
 
-            graphics.DrawString("IMPUESTO:", stringFont, sb, startX, startY + Offset);
+            graphics.DrawString("IVA:", stringFont, sb, startX, startY + Offset);
             measureString = (impuesto).ToString("##,#0");
             stringSize = e.Graphics.MeasureString(measureString, stringFont);
             graphics.DrawString(measureString, stringFont, sb, (250 - stringSize.Width), startY + Offset);

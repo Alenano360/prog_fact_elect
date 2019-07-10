@@ -468,7 +468,7 @@ namespace PuntoVentaBL
             graphics.DrawString("PRODUCTO.", new Font("Merchant Copy Doublesize", 7),
                     new SolidBrush(Color.Black), startX + 40, startY + Offset);
 
-            graphics.DrawString("PRECIO I.V.", new Font("Merchant Copy Doublesize", 7),
+            graphics.DrawString("PRECIO I.V.A", new Font("Merchant Copy Doublesize", 7),
        new SolidBrush(Color.Black), Convert.ToInt32(170), startY + Offset);
 
 
@@ -565,7 +565,7 @@ namespace PuntoVentaBL
                     new SolidBrush(Color.Black), startX, startY + Offset);
                 Offset = Offset + 20;//17032.27
 
-                graphics.DrawString("IV: " + (montoiv).ToString("F"), new Font("Merchant Copy Doublesize", 8),
+                graphics.DrawString("IVA: " + (montoiv).ToString("F"), new Font("Merchant Copy Doublesize", 8),
                     new SolidBrush(Color.Black), startX, startY + Offset);
                 Offset = Offset + 20;//2214.2
 
@@ -583,7 +583,7 @@ namespace PuntoVentaBL
                        new SolidBrush(Color.Black), startX, startY + Offset);
                 Offset = Offset + 20;
 
-                graphics.DrawString("IV: " + (montoiv).ToString("F"), new Font("Merchant Copy Doublesize", 8),
+                graphics.DrawString("IVA: " + (montoiv).ToString("F"), new Font("Merchant Copy Doublesize", 8),
                     new SolidBrush(Color.Black), startX, startY + Offset);
                 Offset = Offset + 20;
 

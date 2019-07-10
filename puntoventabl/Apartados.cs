@@ -249,9 +249,9 @@ namespace PuntoVentaBL
             set { _UnidadMedidaId = value; }
         }
 
-        private bool _IV;
+        private int _IV;
 
-        public bool IV
+        public int IV
         {
             get { return _IV; }
             set { _IV = value; }
@@ -829,7 +829,7 @@ namespace PuntoVentaBL
                     if (_TipoPrecio == 2)
                     {
                         _Precio = bus.First().Precio2;
-                        _IV = bus.First().IVPrecio2;
+                        _IV = bus.First().IV;
                         _PrecioIVA = bus.First().Precio2IVU;
                         _MontoIV = bus.First().MontoIV2;
                     }
