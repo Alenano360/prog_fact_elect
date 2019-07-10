@@ -1,9 +1,0 @@
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\bin\Release\CoolPrintPreview.exe
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\bin\Release\CoolPrintPreview.pdb
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.csprojResolveAssemblyReference.cache
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.CoolPrintPreviewDialog.resources
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.Form1.resources
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.Properties.Resources.resources
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.csproj.GenerateResource.Cache
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.exe
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\Claveles Final\PuntoVenta\article_src\obj\Release\CoolPrintPreview.pdb

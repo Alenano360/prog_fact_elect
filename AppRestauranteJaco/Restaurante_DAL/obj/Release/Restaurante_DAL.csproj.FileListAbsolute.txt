@@ -1,6 +1,0 @@
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll.config
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.dll
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\bin\Release\Restaurante_DAL.pdb
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.csprojResolveAssemblyReference.cache
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.dll
-C:\Users\Oscar Ch\Desktop\prog_fact_elect\AppRestauranteJaco\Restaurante_DAL\obj\Release\Restaurante_DAL.pdb
